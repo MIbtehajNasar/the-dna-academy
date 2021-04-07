@@ -10,6 +10,7 @@ import "channels"
 // import "bootstrap"
 import '../stylesheets/application'
 import './bootstrap_custom.js'
+import './swiper_custom.js'
 
 Rails.start()
 Turbolinks.start()

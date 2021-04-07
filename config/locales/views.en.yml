@@ -1,0 +1,35 @@
+en:
+  team:
+    card_title:
+      dr_israr: DR. M. Israr Nasir
+      sarwat_haroon: Sarwat Haroon
+      ibtisam: Muhammad Ibtisam Nasar
+      osama: Osama
+      ramsha: Ramsha Haroon
+      tulaib: Muhammad Tulaib Iqbal
+      ammar: Ammar Khursheed
+      sami: Hafiz Muhammad Sami Noor
+      bilal: Hafiz Muhammad Bilal
+      nabeel: Nabeel-Ur-Rehman
+    designation:
+      dr_israr: Team Leader
+      sarwat_haroon: Team Co-Leader
+      ibtisam: Lead Bioinformatician
+      osama: Lead Bioinformatician
+      ramsha: Lead Bioinformatician
+      tulaib: Lead Biotechnologist
+      ammar: Lead Biotechnologist
+      sami: Lead Biotechnologist
+      bilal: Lead Biotechnologist
+      nabeel: Lead Biotechnologist
+    education:
+      dr_israr: ErCLG, Clinical Laboratory Geneticst, Ph.D (Genetics), Molecular Pathologist.
+      sarwat_haroon: Team Lead
+      ibtisam: M. Phil Bioinformatics (NCB-QAU) BS Bioinformatics & Biotechnology(GCUF)
+      osama: BS Bioinformatics (SSUET)
+      ramsha: BS Bioinformatics (SSUET) M. Phil Bioinformatics Fellow(MAJU)
+      tulaib: BS Biotechnology (DUHS)
+      ammar: BS Biotechnology (DUHS)
+      sami: BS Biotechnology (DUHS)
+      bilal: BS Biotechnology (DUHS)
+      nabeel: BS Biotechnology (DUHS)
