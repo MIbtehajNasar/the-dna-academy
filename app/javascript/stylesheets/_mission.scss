@@ -1,0 +1,17 @@
+#mission {
+  background: #eee !important;
+}
+
+p {
+  font-size: 18px;
+}
+
+.image {
+  &-border-radius {
+    border-radius: 18px;
+  }
+
+  &-resize {
+    max-height: 480px;
+  }
+}

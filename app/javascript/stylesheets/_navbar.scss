@@ -6,6 +6,14 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  .carousel-heading {
+    background-color:#0b3b1a8a;
+    position: absolute;
+    height: 200px;
+    h5, p {
+      color: #ffffff;
+    }
+  }
 }
 .carousel-caption {
   bottom: 270px;
