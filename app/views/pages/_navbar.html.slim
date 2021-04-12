@@ -10,8 +10,8 @@ nav.navbar.navbar-expand-lg.navbar-light.fixed-top
           a.nav-link[href="#"]
             | Home
         li.nav-item
-          a.nav-link[href="#"]
-            | Services
+          a.nav-link[href="#mission"]
+            | Mission
         li.nav-item
           a.nav-link[href="#team"]
             | Team
@@ -25,26 +25,30 @@ nav.navbar.navbar-expand-lg.navbar-light.fixed-top
     li[data-target="#carouselExampleIndicators" data-slide-to="2"]
   .carousel-inner
     .carousel-item.active
-      img.d-block.w-100[src="https://i.postimg.cc/bNQp0RDW/1.jpg" alt="First slide"]
+      =image_tag("theme/slide1.jpeg" , class: 'd-block w-100')
+      / img.d-block.w-100[src="https://i.postimg.cc/bNQp0RDW/1.jpg" alt="First slide"]
       .carousel-caption.d-none.d-md-block
-        h5
-          | DNA Acadmey Pakistan
-        p
-          | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
+        .carousel-heading
+          h5
+            | DNA Acadmey Pakistan
+          p
+            | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
     .carousel-item
-      img.d-block.w-100[src="https://i.postimg.cc/pVzg3LWn/2.jpg" alt="Second slide"]
+      =image_tag("theme/slide2.jpeg" , class: 'd-block w-100')
       .carousel-caption.d-none.d-md-block
-        h5
-          | Slider One Item
-        p
-          | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
+        .carousel-heading
+          h5
+            | DNA Acadmey Pakistan
+          p
+            | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
     .carousel-item
-      img.d-block.w-100[src="https://i.postimg.cc/0y2F6Gpp/3.jpg" alt="Third slide"]
+      =image_tag("theme/slide3.jpeg" , class: 'd-block w-100')
       .carousel-caption.d-none.d-md-block
-        h5
-          | Slider One Item
-        p
-          | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
+        .carousel-heading
+          h5
+            | DNA Acadmey Pakistan
+          p
+            | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
   a.carousel-control-prev[href="#carouselExampleIndicators" role="button" data-slide="prev"]
     span.carousel-control-prev-icon[aria-hidden="true"]
     span.sr-only
