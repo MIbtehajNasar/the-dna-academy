@@ -1,15 +1,19 @@
 .carousel-item {
-  height: 100vh;
-  min-height: 300px;
+  min-height: 250px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  @media (min-width: 700px) {
+    height: 100vh
+  }
   .carousel-heading {
     background-color:#0b3b1a8a;
     position: absolute;
-    height: 200px;
+    min-height: 200px;
+    bottom: 2%;
+    left: 8%;
     h5, p {
       color: #ffffff;
     }
@@ -53,7 +57,7 @@
 }
 
 .navbar-toggler {
-  background: #133302;
+  background: #1333020a;
 }
 
 .navbar-nav {

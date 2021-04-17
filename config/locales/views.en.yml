@@ -20,16 +20,16 @@ en:
       dr_israr: Team Leader
       sarwat_haroon: Team Co-Leader
       ibtisam: Lead Bioinformatician
-      osama: Lead Bioinformatician
-      ramsha: Lead Bioinformatician
-      tulaib: Lead Biotechnologist
-      ammar: Lead Biotechnologist
-      sami: Lead Biotechnologist
-      bilal: Lead Biotechnologist
-      nabeel: Lead Biotechnologist
+      osama: Bioinformatician
+      ramsha: Bioinformatician
+      tulaib: Biotechnologist
+      ammar: Biotechnologist
+      sami: Biotechnologist
+      bilal: Biotechnologist
+      nabeel: Biotechnologist
     education:
       dr_israr: ErCLG, Clinical Laboratory Geneticst, Ph.D (Genetics), Molecular Pathologist.
-      sarwat_haroon: Team Lead
+      sarwat_haroon: M.Sc Microbiology, Karachi University
       ibtisam: M. Phil Bioinformatics (NCB-QAU) BS Bioinformatics & Biotechnology(GCUF)
       osama: BS Bioinformatics (SSUET)
       ramsha: BS Bioinformatics (SSUET) M. Phil Bioinformatics Fellow(MAJU)
@@ -38,3 +38,26 @@ en:
       sami: BS Biotechnology (DUHS)
       bilal: BS Biotechnology (DUHS)
       nabeel: BS Biotechnology (DUHS)
+    contact:
+      phone:
+        dr_israr_html: <b>Phone:</b> +92-333-1234567<br>
+        sarwat_haroon_html: <b>Phone:</b> +92-333-1234567<br>
+        ibtisam_html: <b>Phone:</b> +92-304-6466231<br>
+        osama_html: <b>Phone:</b> +92-333-1234567<br>
+        ramsha_html: <b>Phone:</b> +92-333-1234567<br>
+        tulaib_html: <b>Phone:</b> +92-332-3647357<br>
+        ammar_html: <b>Phone:</b> +92-333-2078014<br>
+        sami_html: <b>Phone:</b> +92-312-2982050br>
+        bilal_html: <b>Phone:</b> +92-333-1234567<br>
+        nabeel_html: <b>Phone:</b> +92-343-4257950<br>
+      email:
+        dr_israr_html: <b>Email:</b> <br>
+        sarwat_haroon_html: <b>Email:</b> <br>
+        ibtisam_html: <b>Email:</b> mibtehajnasar@gmail.com<br>
+        osama_html: <b>Email:</b> <br>
+        ramsha_html: <b>Email:</b> <br>
+        tulaib_html: <b>Email:</b> tulaib456@gmail.com<br>
+        ammar_html: <b>Email:</b> ammar.khursheed10@gmail.com <br>
+        sami_html: <b>Email:</b> hmsaminoor@gmail.com <br>
+        bilal_html: <b>Email:</b> <br>
+        nabeel_html: <b>Email:</b> nabeelarain1990@gmail.com<br>
