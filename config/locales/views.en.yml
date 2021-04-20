@@ -40,20 +40,20 @@ en:
       nabeel: BS Biotechnology (DUHS)
     contact:
       phone:
-        dr_israr_html: <b>Phone:</b> +92-333-1234567<br>
-        sarwat_haroon_html: <b>Phone:</b> +92-333-1234567<br>
+        dr_israr_html: <b>Phone:</b> +92-336-2815773<br>
+        sarwat_haroon_html: <b>Phone:</b> +92-313-8123459<br>
         ibtisam_html: <b>Phone:</b> +92-304-6466231<br>
         osama_html: <b>Phone:</b> +92-333-1234567<br>
         ramsha_html: <b>Phone:</b> +92-333-1234567<br>
         tulaib_html: <b>Phone:</b> +92-332-3647357<br>
         ammar_html: <b>Phone:</b> +92-333-2078014<br>
-        sami_html: <b>Phone:</b> +92-312-2982050br>
+        sami_html: <b>Phone:</b> +92-312-2982050<br>
         bilal_html: <b>Phone:</b> +92-333-1234567<br>
         nabeel_html: <b>Phone:</b> +92-343-4257950<br>
       email:
-        dr_israr_html: <b>Email:</b> <br>
+        dr_israr_html: <b>Email:</b> israr_nasir@hotmail.com<br>
         sarwat_haroon_html: <b>Email:</b> <br>
-        ibtisam_html: <b>Email:</b> mibtehajnasar@gmail.com<br>
+        ibtisam_html: <b>Email:</b> mibtisamnasar@gmail.com<br>
         osama_html: <b>Email:</b> <br>
         ramsha_html: <b>Email:</b> <br>
         tulaib_html: <b>Email:</b> tulaib456@gmail.com<br>
@@ -61,3 +61,5 @@ en:
         sami_html: <b>Email:</b> hmsaminoor@gmail.com <br>
         bilal_html: <b>Email:</b> <br>
         nabeel_html: <b>Email:</b> nabeelarain1990@gmail.com<br>
+  btn:
+    learn_more: Learn More
